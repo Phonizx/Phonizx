@@ -1,16 +1,45 @@
 ### Hi there 👋
 
-<!--
-**Phonizx/Phonizx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Giovanni, I'm from Italy 🇮🇹 currently I'm living in the Netherlands 🇳🇱! 
 
-Here are some ideas to get you started:
+I'm a backend engineer in love with AWS Cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Experiences:
+
+- Backend Engineer at Deliverect 
+- CTO at [calendbook.com](https://calendbook.com) since 2019
+
+## My stack:
+(project link here)
+- Python: Flask,  FastAPI, Pydantic 
+- NoSQL: AWS DynamoDB, MongoDB 
+- SQL: PostgreSQL, MySQL 
+- Redis
+
+## My AWS Stack: 
+(project links here)
+- API Gateway & Lamba Functions 
+- DynamoDB
+- IAM 
+- CloudWatch
+- S3 
+- Events fired on: EventBridge, SNS, SQS
+- Step-Functions 
+- EC2 - RDS - VPC 
+- Glue and Athena to analyze data from DynamoDB
+
+
+## I worked with those APIs: 
+- Stripe and Stripe Connect
+- Wix
+- Shopify
+- Zoom 
+- Zapier
+- Telegram 
+- Discord
+
+
+## 🌱 I’m currently learning 
+
+- CloudFormation 
+
