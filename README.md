@@ -27,7 +27,7 @@ I'm a Backend Engineer in love with AWS Cloud.
 - Step-Functions 
 - EC2 - RDS - VPC 
 - Glue and Athena to analyze data from DynamoDB
-
+- SAM & Serverless
 
 ## 🎡 I worked with those APIs: 
 - Stripe and Stripe Connect
